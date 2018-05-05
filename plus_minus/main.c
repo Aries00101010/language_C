@@ -2,8 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-const int MAX_NUMBER = 100;
-const int MIN_NUMBER = 1;
+const int MAX_NUMBER = 100, MIN_NUMBER = 1;
 
 /**
 the int value 0 equal false and the value 1 equal true
@@ -56,13 +55,17 @@ int main()
 {
     int r_number = random_number();
     int input_user = 0;
+    int counter = 0;
 
     // Get input again while the random number isn't equal
     do
     {
+        counter++;
         input_user = get_user_input();
     }
     while(advice(r_number, input_user));
+
+    printf("You try to find the number : %d", counter);
 
     return 0;
 }
