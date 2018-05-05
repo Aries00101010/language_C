@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1525529457 source:/home/anonymous/Documents/rouge_logique_et_mathematique/C/plus_minus/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
