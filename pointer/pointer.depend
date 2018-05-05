@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1525532232 source:/home/anonymous/Documents/rouge_logique_et_mathematique/C/pointer/hour.c
+
+1525531832 source:/home/anonymous/Documents/rouge_logique_et_mathematique/C/pointer/main.c
+	<stdio.h>
+	<stdlib.h>
+	"hour.h"
+
+1525532236 /home/anonymous/Documents/rouge_logique_et_mathematique/C/pointer/hour.h
+

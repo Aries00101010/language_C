@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1525539408 source:/home/anonymous/Documents/rouge_logique_et_mathematique/C/string/string.c
+
+1525539416 source:/home/anonymous/Documents/rouge_logique_et_mathematique/C/string/main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1525539471 /home/anonymous/Documents/rouge_logique_et_mathematique/C/string/string.h
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1525535920 source:/home/anonymous/Documents/rouge_logique_et_mathematique/C/array/array.c
+
+1525535808 source:/home/anonymous/Documents/rouge_logique_et_mathematique/C/array/main.c
+	<stdio.h>
+	<stdlib.h>
+	"array.h"
+
+1525535845 /home/anonymous/Documents/rouge_logique_et_mathematique/C/array/array.h
+
